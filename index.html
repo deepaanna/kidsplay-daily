@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+
+    <title>KidsPlay Daily - Fun Games Every Day!</title>
+</head>
+<body>
+    <div class="container">
+        <header>
+            <div class="header-content">
+                <div class="logo">🎮 KidsPlay Daily</div>
+                <div class="user-controls">
+                    <div class="streak-counter">🔥 Streak: <span id="streak">0</span></div>
+                    <button class="premium-btn" onclick="showPremium()">⭐ Go Premium</button>
+                </div>
+            </div>
+        </header>
+
+        <div class="stats">
+            <div class="stat-card">
+                <div class="stat-number" id="totalGames">0</div>
+                <div class="stat-label">Games Played</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number" id="completedToday">0</div>
+                <div class="stat-label">Completed Today</div>
+            </div>
+            <div class="stat-card">
+                <div class="stat-number" id="totalPoints">0</div>
+                <div class="stat-label">Total Points</div>
+            </div>
+        </div>
+
+        <div class="ad-banner">
+            <h3>🌟 Fun Educational Toys for Kids! 🌟</h3>
+            <p>Discover amazing toys that make learning fun - Click here for special offers!</p>
+            <small style="color: #666; margin-top: 10px; display: block;">Ad • Remove ads with Premium</small>
+        </div>
+        <div class="ad-banner">
+            <h3>🎨 Ad: Art Supplies for Kids</h3>
+            <p>Unleash creativity with fun craft kits. Click here!</p>
+        </div>
+
+        <div class="games-grid">
+            <div class="game-card" onclick="openGame('wordGame')">
+                <div class="game-title">🔤 Word Explorer</div>
+                <div class="game-description">Find the mystery word! A fun word puzzle game perfect for building vocabulary.</div>
+                <div class="game-status">
+                    <span class="difficulty easy">Easy</span>
+                    <span id="wordStatus">Not played</span>
+                </div>
+                <button class="play-btn" id="wordBtn">Play Now!</button>
+            </div>
+
+            <div class="game-card" onclick="openGame('mathGame')">
+                <div class="game-title">🔢 Math Adventure</div>
+                <div class="game-description">Solve fun math problems and become a number ninja! Practice addition, subtraction, and more.</div>
+                <div class="game-status">
+                    <span class="difficulty medium">Medium</span>
+                    <span id="mathStatus">Not played</span>
+                </div>
+                <button class="play-btn" id="mathBtn">Play Now!</button>
+            </div>
+
+            <div class="game-card" onclick="openGame('puzzleGame')">
+                <div class="game-title">🧩 Pattern Puzzle</div>
+                <div class="game-description">Complete the pattern! Train your brain with these colorful sequence challenges.</div>
+                <div class="game-status">
+                    <span class="difficulty easy">Easy</span>
+                    <span id="puzzleStatus">Not played</span>
+                </div>
+                <button class="play-btn" id="puzzleBtn">Play Now!</button>
+            </div>
+
+            <div class="game-card" onclick="openGame('memoryGame')">
+                <div class="game-title">🧠 Memory Match</div>
+                <div class="game-description">Test your memory skills! Find matching pairs in this exciting memory game.</div>
+                <div class="game-status">
+                    <span class="difficulty hard">Hard</span>
+                    <span id="memoryStatus">Not played</span>
+                </div>
+                <button class="play-btn" id="memoryBtn">Play Now!</button>
+            </div>
+
+            <div class="game-card" onclick="openGame('drawingGame')">
+                <div class="game-title">🎨 Drawing Challenge</div>
+                <div class="game-description">Draw the daily prompt! Express your creativity with our fun drawing tool.</div>
+                <div class="game-status">
+                    <span class="difficulty easy">Easy</span>
+                    <span id="drawingStatus">Not played</span>
+                </div>
+                <button class="play-btn" id="drawingBtn">Play Now!</button>
+            </div>
+
+            <div class="game-card" onclick="openGame('quizGame')">
+                <div class="game-title">🌟 Knowledge Quiz</div>
+                <div class="game-description">Test your knowledge about animals, science, and the world around you!</div>
+                <div class="game-status">
+                    <span class="difficulty medium">Medium</span>
+                    <span id="quizStatus">Not played</span>
+                </div>
+                <button class="play-btn" id="quizBtn">Play Now!</button>
+            </div>
+
+            <div class="game-card premium-locked" onclick="showPremiumRequired()">
+                <div class="game-title">🏆 Speed Challenge</div>
+                <div class="game-description">Race against time in this exciting speed game! Premium members only.</div>
+                <div class="game-status">
+                    <span class="difficulty hard">Hard</span>
+                    <span class="premium-badge">⭐ Premium</span>
+                </div>
+                <button class="play-btn premium-btn-disabled">🔒 Premium Only</button>
+            </div>
+
+            <div class="game-card premium-locked" onclick="showPremiumRequired()">
+                <div class="game-title">🎯 Daily Challenge</div>
+                <div class="game-description">Complete special challenges for extra rewards! Premium exclusive content.</div>
+                <div class="game-status">
+                    <span class="difficulty hard">Hard</span>
+                    <span class="premium-badge">⭐ Premium</span>
+                </div>
+                <button class="play-btn premium-btn-disabled">🔒 Premium Only</button>
+            </div>
+        </div>
+
+        <div class="daily-rewards">
+            <h3>🎁 Daily Rewards</h3>
+            <p>Come back every day to earn special rewards!</p>
+            <div class="reward-item">
+                <div>Day 1: 🏆 First Player Badge</div>
+            </div>
+            <div class="reward-item">
+                <div>Day 3: 🌟 Star Collector</div>
+            </div>
+            <div class="reward-item">
+                <div>Day 7: 🎨 Art Master</div>
+            </div>
+        </div>
+
+        <div class="achievements">
+            <h3>🏆 Today's Achievements</h3>
+            <div class="achievement-item">
+                <div class="achievement-icon">🎯</div>
+                <div class="achievement-text">
+                    <div class="achievement-title">Perfect Score!</div>
+                    <div class="achievement-description">Get all answers correct in any game</div>
+                </div>
+            </div>
+            <div class="achievement-item">
+                <div class="achievement-icon">⚡</div>
+                <div class="achievement-text">
+                    <div class="achievement-title">Speed Demon</div>
+                    <div class="achievement-description">Complete a game in under 30 seconds</div>
+                </div>
+            </div>
+            <div class="achievement-item">
+                <div class="achievement-icon">🔥</div>
+                <div class="achievement-text">
+                    <div class="achievement-title">Streak Master</div>
+                    <div class="achievement-description">Play for 3 days in a row</div>
+                </div>
+            </div>
+        </div>
+
+        <div class="ad-banner">
+            <h3>🎨 Creative Art Supplies for Young Artists! 🎨</h3>
+            <p>Unleash creativity with our premium art kits designed for children</p>
+            <small style="color: #666; margin-top: 10px; display: block;">Ad • Remove ads with Premium</small>
+        </div>
+    </div>
+
+    <div class="floating-elements">
+        <div class="floating-element" style="left: 10%; top: 20%; animation-delay: 0s;">🎮</div>
+        <div class="floating-element" style="left: 85%; top: 15%; animation-delay: 2s;">🌟</div>
+        <div class="floating-element" style="left: 70%; top: 70%; animation-delay: 4s;">🎨</div>
+        <div class="floating-element" style="left: 20%; top: 80%; animation-delay: 1s;">🚀</div>
+        <div class="floating-element" style="left: 90%; top: 60%; animation-delay: 3s;">🎪</div>
+    </div>
+
+    <!-- Game Modals -->
+    <div class="game-modal" id="gameModal">
+        <div class="modal-content">
+            <button class="close-btn" onclick="closeGame()">&times;</button>
+            <div id="gameContent"></div>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>

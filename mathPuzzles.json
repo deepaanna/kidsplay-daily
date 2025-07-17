@@ -1,0 +1,1462 @@
+[
+  {
+    "question": "11 \u00f7 1 = ?",
+    "answer": 11
+  },
+  {
+    "question": "50 + 13 = ?",
+    "answer": 63
+  },
+  {
+    "question": "63 \u00f7 9 = ?",
+    "answer": 7
+  },
+  {
+    "question": "7 \u00d7 8 = ?",
+    "answer": 56
+  },
+  {
+    "question": "37 - 4 = ?",
+    "answer": 33
+  },
+  {
+    "question": "13 - 10 = ?",
+    "answer": 3
+  },
+  {
+    "question": "45 - 43 = ?",
+    "answer": 2
+  },
+  {
+    "question": "30 - 21 = ?",
+    "answer": 9
+  },
+  {
+    "question": "15 \u00f7 3 = ?",
+    "answer": 5
+  },
+  {
+    "question": "5 \u00d7 10 = ?",
+    "answer": 50
+  },
+  {
+    "question": "38 - 7 = ?",
+    "answer": 31
+  },
+  {
+    "question": "46 - 1 = ?",
+    "answer": 45
+  },
+  {
+    "question": "12 \u00d7 9 = ?",
+    "answer": 108
+  },
+  {
+    "question": "42 - 23 = ?",
+    "answer": 19
+  },
+  {
+    "question": "48 - 22 = ?",
+    "answer": 26
+  },
+  {
+    "question": "1 \u00d7 12 = ?",
+    "answer": 12
+  },
+  {
+    "question": "28 - 21 = ?",
+    "answer": 7
+  },
+  {
+    "question": "32 - 1 = ?",
+    "answer": 31
+  },
+  {
+    "question": "30 \u00f7 6 = ?",
+    "answer": 5
+  },
+  {
+    "question": "54 \u00f7 6 = ?",
+    "answer": 9
+  },
+  {
+    "question": "12 \u00d7 7 = ?",
+    "answer": 84
+  },
+  {
+    "question": "63 \u00f7 9 = ?",
+    "answer": 7
+  },
+  {
+    "question": "34 - 28 = ?",
+    "answer": 6
+  },
+  {
+    "question": "36 + 4 = ?",
+    "answer": 40
+  },
+  {
+    "question": "4 \u00d7 8 = ?",
+    "answer": 32
+  },
+  {
+    "question": "45 - 15 = ?",
+    "answer": 30
+  },
+  {
+    "question": "2 + 12 = ?",
+    "answer": 14
+  },
+  {
+    "question": "6 \u00d7 3 = ?",
+    "answer": 18
+  },
+  {
+    "question": "144 \u00f7 12 = ?",
+    "answer": 12
+  },
+  {
+    "question": "7 \u00d7 6 = ?",
+    "answer": 42
+  },
+  {
+    "question": "90 \u00f7 9 = ?",
+    "answer": 10
+  },
+  {
+    "question": "120 \u00f7 12 = ?",
+    "answer": 10
+  },
+  {
+    "question": "10 + 30 = ?",
+    "answer": 40
+  },
+  {
+    "question": "33 - 26 = ?",
+    "answer": 7
+  },
+  {
+    "question": "18 + 46 = ?",
+    "answer": 64
+  },
+  {
+    "question": "47 - 45 = ?",
+    "answer": 2
+  },
+  {
+    "question": "55 \u00f7 11 = ?",
+    "answer": 5
+  },
+  {
+    "question": "17 + 45 = ?",
+    "answer": 62
+  },
+  {
+    "question": "5 \u00d7 7 = ?",
+    "answer": 35
+  },
+  {
+    "question": "26 - 13 = ?",
+    "answer": 13
+  },
+  {
+    "question": "49 - 33 = ?",
+    "answer": 16
+  },
+  {
+    "question": "45 - 22 = ?",
+    "answer": 23
+  },
+  {
+    "question": "11 \u00d7 4 = ?",
+    "answer": 44
+  },
+  {
+    "question": "70 \u00f7 7 = ?",
+    "answer": 10
+  },
+  {
+    "question": "132 \u00f7 11 = ?",
+    "answer": 12
+  },
+  {
+    "question": "12 \u00f7 4 = ?",
+    "answer": 3
+  },
+  {
+    "question": "70 \u00f7 10 = ?",
+    "answer": 7
+  },
+  {
+    "question": "10 + 37 = ?",
+    "answer": 47
+  },
+  {
+    "question": "28 - 25 = ?",
+    "answer": 3
+  },
+  {
+    "question": "23 + 29 = ?",
+    "answer": 52
+  },
+  {
+    "question": "22 - 3 = ?",
+    "answer": 19
+  },
+  {
+    "question": "3 \u00f7 1 = ?",
+    "answer": 3
+  },
+  {
+    "question": "33 - 8 = ?",
+    "answer": 25
+  },
+  {
+    "question": "49 + 28 = ?",
+    "answer": 77
+  },
+  {
+    "question": "35 - 6 = ?",
+    "answer": 29
+  },
+  {
+    "question": "1 \u00d7 10 = ?",
+    "answer": 10
+  },
+  {
+    "question": "37 + 42 = ?",
+    "answer": 79
+  },
+  {
+    "question": "10 \u00d7 2 = ?",
+    "answer": 20
+  },
+  {
+    "question": "27 \u00f7 3 = ?",
+    "answer": 9
+  },
+  {
+    "question": "7 \u00d7 2 = ?",
+    "answer": 14
+  },
+  {
+    "question": "33 + 41 = ?",
+    "answer": 74
+  },
+  {
+    "question": "47 - 11 = ?",
+    "answer": 36
+  },
+  {
+    "question": "33 + 12 = ?",
+    "answer": 45
+  },
+  {
+    "question": "19 - 5 = ?",
+    "answer": 14
+  },
+  {
+    "question": "43 + 34 = ?",
+    "answer": 77
+  },
+  {
+    "question": "36 + 44 = ?",
+    "answer": 80
+  },
+  {
+    "question": "100 \u00f7 10 = ?",
+    "answer": 10
+  },
+  {
+    "question": "6 - 3 = ?",
+    "answer": 3
+  },
+  {
+    "question": "24 \u00f7 6 = ?",
+    "answer": 4
+  },
+  {
+    "question": "21 \u00f7 7 = ?",
+    "answer": 3
+  },
+  {
+    "question": "34 - 5 = ?",
+    "answer": 29
+  },
+  {
+    "question": "11 + 7 = ?",
+    "answer": 18
+  },
+  {
+    "question": "9 \u00d7 6 = ?",
+    "answer": 54
+  },
+  {
+    "question": "32 + 11 = ?",
+    "answer": 43
+  },
+  {
+    "question": "33 - 6 = ?",
+    "answer": 27
+  },
+  {
+    "question": "19 - 11 = ?",
+    "answer": 8
+  },
+  {
+    "question": "3 \u00d7 3 = ?",
+    "answer": 9
+  },
+  {
+    "question": "9 \u00d7 2 = ?",
+    "answer": 18
+  },
+  {
+    "question": "27 - 18 = ?",
+    "answer": 9
+  },
+  {
+    "question": "6 \u00d7 1 = ?",
+    "answer": 6
+  },
+  {
+    "question": "25 \u00f7 5 = ?",
+    "answer": 5
+  },
+  {
+    "question": "12 \u00d7 1 = ?",
+    "answer": 12
+  },
+  {
+    "question": "12 \u00f7 12 = ?",
+    "answer": 1
+  },
+  {
+    "question": "12 - 7 = ?",
+    "answer": 5
+  },
+  {
+    "question": "2 \u00d7 11 = ?",
+    "answer": 22
+  },
+  {
+    "question": "12 \u00d7 4 = ?",
+    "answer": 48
+  },
+  {
+    "question": "1 \u00d7 8 = ?",
+    "answer": 8
+  },
+  {
+    "question": "14 - 14 = ?",
+    "answer": 0
+  },
+  {
+    "question": "132 \u00f7 12 = ?",
+    "answer": 11
+  },
+  {
+    "question": "42 + 46 = ?",
+    "answer": 88
+  },
+  {
+    "question": "29 - 16 = ?",
+    "answer": 13
+  },
+  {
+    "question": "20 \u00f7 4 = ?",
+    "answer": 5
+  },
+  {
+    "question": "2 \u00d7 7 = ?",
+    "answer": 14
+  },
+  {
+    "question": "18 \u00f7 3 = ?",
+    "answer": 6
+  },
+  {
+    "question": "11 \u00d7 3 = ?",
+    "answer": 33
+  },
+  {
+    "question": "43 - 14 = ?",
+    "answer": 29
+  },
+  {
+    "question": "4 \u00d7 3 = ?",
+    "answer": 12
+  },
+  {
+    "question": "27 + 2 = ?",
+    "answer": 29
+  },
+  {
+    "question": "23 - 1 = ?",
+    "answer": 22
+  },
+  {
+    "question": "12 + 24 = ?",
+    "answer": 36
+  },
+  {
+    "question": "3 \u00d7 1 = ?",
+    "answer": 3
+  },
+  {
+    "question": "10 \u00d7 12 = ?",
+    "answer": 120
+  },
+  {
+    "question": "121 \u00f7 11 = ?",
+    "answer": 11
+  },
+  {
+    "question": "20 + 6 = ?",
+    "answer": 26
+  },
+  {
+    "question": "8 \u00f7 2 = ?",
+    "answer": 4
+  },
+  {
+    "question": "54 \u00f7 6 = ?",
+    "answer": 9
+  },
+  {
+    "question": "31 - 28 = ?",
+    "answer": 3
+  },
+  {
+    "question": "39 - 37 = ?",
+    "answer": 2
+  },
+  {
+    "question": "10 \u00d7 7 = ?",
+    "answer": 70
+  },
+  {
+    "question": "13 + 3 = ?",
+    "answer": 16
+  },
+  {
+    "question": "39 + 41 = ?",
+    "answer": 80
+  },
+  {
+    "question": "33 + 38 = ?",
+    "answer": 71
+  },
+  {
+    "question": "43 - 36 = ?",
+    "answer": 7
+  },
+  {
+    "question": "14 + 2 = ?",
+    "answer": 16
+  },
+  {
+    "question": "1 \u00d7 10 = ?",
+    "answer": 10
+  },
+  {
+    "question": "5 \u00d7 10 = ?",
+    "answer": 50
+  },
+  {
+    "question": "9 \u00d7 4 = ?",
+    "answer": 36
+  },
+  {
+    "question": "55 \u00f7 11 = ?",
+    "answer": 5
+  },
+  {
+    "question": "48 \u00f7 4 = ?",
+    "answer": 12
+  },
+  {
+    "question": "6 \u00d7 3 = ?",
+    "answer": 18
+  },
+  {
+    "question": "34 - 29 = ?",
+    "answer": 5
+  },
+  {
+    "question": "7 \u00d7 6 = ?",
+    "answer": 42
+  },
+  {
+    "question": "42 + 17 = ?",
+    "answer": 59
+  },
+  {
+    "question": "32 + 47 = ?",
+    "answer": 79
+  },
+  {
+    "question": "29 - 17 = ?",
+    "answer": 12
+  },
+  {
+    "question": "45 + 43 = ?",
+    "answer": 88
+  },
+  {
+    "question": "8 \u00d7 12 = ?",
+    "answer": 96
+  },
+  {
+    "question": "20 \u00f7 4 = ?",
+    "answer": 5
+  },
+  {
+    "question": "4 \u00d7 2 = ?",
+    "answer": 8
+  },
+  {
+    "question": "1 \u00d7 11 = ?",
+    "answer": 11
+  },
+  {
+    "question": "18 \u00f7 6 = ?",
+    "answer": 3
+  },
+  {
+    "question": "50 + 50 = ?",
+    "answer": 100
+  },
+  {
+    "question": "36 + 12 = ?",
+    "answer": 48
+  },
+  {
+    "question": "24 \u00f7 8 = ?",
+    "answer": 3
+  },
+  {
+    "question": "43 - 34 = ?",
+    "answer": 9
+  },
+  {
+    "question": "8 + 28 = ?",
+    "answer": 36
+  },
+  {
+    "question": "44 - 31 = ?",
+    "answer": 13
+  },
+  {
+    "question": "10 \u00d7 1 = ?",
+    "answer": 10
+  },
+  {
+    "question": "14 \u00f7 2 = ?",
+    "answer": 7
+  },
+  {
+    "question": "35 + 26 = ?",
+    "answer": 61
+  },
+  {
+    "question": "48 \u00f7 6 = ?",
+    "answer": 8
+  },
+  {
+    "question": "80 \u00f7 8 = ?",
+    "answer": 10
+  },
+  {
+    "question": "6 - 5 = ?",
+    "answer": 1
+  },
+  {
+    "question": "50 - 45 = ?",
+    "answer": 5
+  },
+  {
+    "question": "84 \u00f7 7 = ?",
+    "answer": 12
+  },
+  {
+    "question": "6 + 19 = ?",
+    "answer": 25
+  },
+  {
+    "question": "48 - 34 = ?",
+    "answer": 14
+  },
+  {
+    "question": "28 + 38 = ?",
+    "answer": 66
+  },
+  {
+    "question": "21 + 8 = ?",
+    "answer": 29
+  },
+  {
+    "question": "39 + 20 = ?",
+    "answer": 59
+  },
+  {
+    "question": "5 \u00d7 12 = ?",
+    "answer": 60
+  },
+  {
+    "question": "33 + 16 = ?",
+    "answer": 49
+  },
+  {
+    "question": "35 - 5 = ?",
+    "answer": 30
+  },
+  {
+    "question": "7 - 3 = ?",
+    "answer": 4
+  },
+  {
+    "question": "41 - 18 = ?",
+    "answer": 23
+  },
+  {
+    "question": "36 + 44 = ?",
+    "answer": 80
+  },
+  {
+    "question": "3 + 38 = ?",
+    "answer": 41
+  },
+  {
+    "question": "14 - 8 = ?",
+    "answer": 6
+  },
+  {
+    "question": "39 + 18 = ?",
+    "answer": 57
+  },
+  {
+    "question": "33 + 9 = ?",
+    "answer": 42
+  },
+  {
+    "question": "56 \u00f7 7 = ?",
+    "answer": 8
+  },
+  {
+    "question": "1 \u00d7 2 = ?",
+    "answer": 2
+  },
+  {
+    "question": "9 \u00d7 2 = ?",
+    "answer": 18
+  },
+  {
+    "question": "24 \u00f7 3 = ?",
+    "answer": 8
+  },
+  {
+    "question": "30 - 24 = ?",
+    "answer": 6
+  },
+  {
+    "question": "40 + 3 = ?",
+    "answer": 43
+  },
+  {
+    "question": "108 \u00f7 9 = ?",
+    "answer": 12
+  },
+  {
+    "question": "50 - 14 = ?",
+    "answer": 36
+  },
+  {
+    "question": "8 \u00d7 6 = ?",
+    "answer": 48
+  },
+  {
+    "question": "14 + 25 = ?",
+    "answer": 39
+  },
+  {
+    "question": "26 + 38 = ?",
+    "answer": 64
+  },
+  {
+    "question": "36 + 18 = ?",
+    "answer": 54
+  },
+  {
+    "question": "9 \u00f7 1 = ?",
+    "answer": 9
+  },
+  {
+    "question": "7 \u00d7 3 = ?",
+    "answer": 21
+  },
+  {
+    "question": "46 + 27 = ?",
+    "answer": 73
+  },
+  {
+    "question": "32 + 45 = ?",
+    "answer": 77
+  },
+  {
+    "question": "49 - 2 = ?",
+    "answer": 47
+  },
+  {
+    "question": "8 + 33 = ?",
+    "answer": 41
+  },
+  {
+    "question": "22 - 4 = ?",
+    "answer": 18
+  },
+  {
+    "question": "40 \u00f7 4 = ?",
+    "answer": 10
+  },
+  {
+    "question": "7 \u00d7 8 = ?",
+    "answer": 56
+  },
+  {
+    "question": "3 \u00d7 3 = ?",
+    "answer": 9
+  },
+  {
+    "question": "27 + 22 = ?",
+    "answer": 49
+  },
+  {
+    "question": "18 \u00f7 3 = ?",
+    "answer": 6
+  },
+  {
+    "question": "34 - 8 = ?",
+    "answer": 26
+  },
+  {
+    "question": "3 \u00d7 6 = ?",
+    "answer": 18
+  },
+  {
+    "question": "34 - 29 = ?",
+    "answer": 5
+  },
+  {
+    "question": "49 - 33 = ?",
+    "answer": 16
+  },
+  {
+    "question": "12 \u00d7 9 = ?",
+    "answer": 108
+  },
+  {
+    "question": "7 + 42 = ?",
+    "answer": 49
+  },
+  {
+    "question": "24 \u00f7 8 = ?",
+    "answer": 3
+  },
+  {
+    "question": "55 \u00f7 11 = ?",
+    "answer": 5
+  },
+  {
+    "question": "3 \u00d7 8 = ?",
+    "answer": 24
+  },
+  {
+    "question": "20 \u00f7 2 = ?",
+    "answer": 10
+  },
+  {
+    "question": "40 - 35 = ?",
+    "answer": 5
+  },
+  {
+    "question": "44 + 33 = ?",
+    "answer": 77
+  },
+  {
+    "question": "6 \u00d7 12 = ?",
+    "answer": 72
+  },
+  {
+    "question": "2 + 37 = ?",
+    "answer": 39
+  },
+  {
+    "question": "4 + 27 = ?",
+    "answer": 31
+  },
+  {
+    "question": "24 \u00f7 2 = ?",
+    "answer": 12
+  },
+  {
+    "question": "25 - 11 = ?",
+    "answer": 14
+  },
+  {
+    "question": "39 - 22 = ?",
+    "answer": 17
+  },
+  {
+    "question": "35 \u00f7 7 = ?",
+    "answer": 5
+  },
+  {
+    "question": "8 + 50 = ?",
+    "answer": 58
+  },
+  {
+    "question": "5 \u00d7 4 = ?",
+    "answer": 20
+  },
+  {
+    "question": "36 + 45 = ?",
+    "answer": 81
+  },
+  {
+    "question": "2 \u00f7 2 = ?",
+    "answer": 1
+  },
+  {
+    "question": "8 \u00d7 6 = ?",
+    "answer": 48
+  },
+  {
+    "question": "11 \u00d7 4 = ?",
+    "answer": 44
+  },
+  {
+    "question": "39 - 11 = ?",
+    "answer": 28
+  },
+  {
+    "question": "33 \u00f7 3 = ?",
+    "answer": 11
+  },
+  {
+    "question": "1 \u00d7 8 = ?",
+    "answer": 8
+  },
+  {
+    "question": "30 - 17 = ?",
+    "answer": 13
+  },
+  {
+    "question": "30 \u00f7 6 = ?",
+    "answer": 5
+  },
+  {
+    "question": "7 + 46 = ?",
+    "answer": 53
+  },
+  {
+    "question": "46 - 22 = ?",
+    "answer": 24
+  },
+  {
+    "question": "32 + 12 = ?",
+    "answer": 44
+  },
+  {
+    "question": "43 + 37 = ?",
+    "answer": 80
+  },
+  {
+    "question": "38 - 37 = ?",
+    "answer": 1
+  },
+  {
+    "question": "5 \u00d7 1 = ?",
+    "answer": 5
+  },
+  {
+    "question": "10 \u00d7 8 = ?",
+    "answer": 80
+  },
+  {
+    "question": "4 \u00d7 9 = ?",
+    "answer": 36
+  },
+  {
+    "question": "4 \u00d7 5 = ?",
+    "answer": 20
+  },
+  {
+    "question": "21 - 6 = ?",
+    "answer": 15
+  },
+  {
+    "question": "22 + 13 = ?",
+    "answer": 35
+  },
+  {
+    "question": "2 \u00d7 11 = ?",
+    "answer": 22
+  },
+  {
+    "question": "41 + 25 = ?",
+    "answer": 66
+  },
+  {
+    "question": "25 + 47 = ?",
+    "answer": 72
+  },
+  {
+    "question": "41 + 10 = ?",
+    "answer": 51
+  },
+  {
+    "question": "36 \u00f7 9 = ?",
+    "answer": 4
+  },
+  {
+    "question": "23 - 2 = ?",
+    "answer": 21
+  },
+  {
+    "question": "28 + 17 = ?",
+    "answer": 45
+  },
+  {
+    "question": "48 \u00f7 4 = ?",
+    "answer": 12
+  },
+  {
+    "question": "49 - 42 = ?",
+    "answer": 7
+  },
+  {
+    "question": "29 - 6 = ?",
+    "answer": 23
+  },
+  {
+    "question": "2 \u00d7 4 = ?",
+    "answer": 8
+  },
+  {
+    "question": "8 + 6 = ?",
+    "answer": 14
+  },
+  {
+    "question": "4 \u00d7 4 = ?",
+    "answer": 16
+  },
+  {
+    "question": "40 \u00f7 4 = ?",
+    "answer": 10
+  },
+  {
+    "question": "8 \u00d7 5 = ?",
+    "answer": 40
+  },
+  {
+    "question": "11 \u00d7 6 = ?",
+    "answer": 66
+  },
+  {
+    "question": "8 \u00f7 2 = ?",
+    "answer": 4
+  },
+  {
+    "question": "24 + 10 = ?",
+    "answer": 34
+  },
+  {
+    "question": "120 \u00f7 10 = ?",
+    "answer": 12
+  },
+  {
+    "question": "32 - 9 = ?",
+    "answer": 23
+  },
+  {
+    "question": "66 \u00f7 11 = ?",
+    "answer": 6
+  },
+  {
+    "question": "1 \u00d7 11 = ?",
+    "answer": 11
+  },
+  {
+    "question": "48 - 29 = ?",
+    "answer": 19
+  },
+  {
+    "question": "11 \u00d7 8 = ?",
+    "answer": 88
+  },
+  {
+    "question": "3 \u00f7 1 = ?",
+    "answer": 3
+  },
+  {
+    "question": "44 - 23 = ?",
+    "answer": 21
+  },
+  {
+    "question": "47 - 16 = ?",
+    "answer": 31
+  },
+  {
+    "question": "20 \u00f7 4 = ?",
+    "answer": 5
+  },
+  {
+    "question": "20 \u00f7 4 = ?",
+    "answer": 5
+  },
+  {
+    "question": "10 \u00f7 5 = ?",
+    "answer": 2
+  },
+  {
+    "question": "9 \u00d7 12 = ?",
+    "answer": 108
+  },
+  {
+    "question": "56 \u00f7 8 = ?",
+    "answer": 7
+  },
+  {
+    "question": "3 \u00d7 7 = ?",
+    "answer": 21
+  },
+  {
+    "question": "18 \u00f7 3 = ?",
+    "answer": 6
+  },
+  {
+    "question": "11 + 35 = ?",
+    "answer": 46
+  },
+  {
+    "question": "12 \u00d7 12 = ?",
+    "answer": 144
+  },
+  {
+    "question": "4 \u00d7 1 = ?",
+    "answer": 4
+  },
+  {
+    "question": "8 \u00f7 2 = ?",
+    "answer": 4
+  },
+  {
+    "question": "28 \u00f7 7 = ?",
+    "answer": 4
+  },
+  {
+    "question": "31 + 7 = ?",
+    "answer": 38
+  },
+  {
+    "question": "8 \u00d7 3 = ?",
+    "answer": 24
+  },
+  {
+    "question": "32 + 4 = ?",
+    "answer": 36
+  },
+  {
+    "question": "35 - 27 = ?",
+    "answer": 8
+  },
+  {
+    "question": "1 \u00d7 12 = ?",
+    "answer": 12
+  },
+  {
+    "question": "77 \u00f7 11 = ?",
+    "answer": 7
+  },
+  {
+    "question": "10 \u00d7 10 = ?",
+    "answer": 100
+  },
+  {
+    "question": "1 \u00d7 9 = ?",
+    "answer": 9
+  },
+  {
+    "question": "13 + 9 = ?",
+    "answer": 22
+  },
+  {
+    "question": "63 \u00f7 7 = ?",
+    "answer": 9
+  },
+  {
+    "question": "9 \u00f7 1 = ?",
+    "answer": 9
+  },
+  {
+    "question": "37 - 15 = ?",
+    "answer": 22
+  },
+  {
+    "question": "32 + 10 = ?",
+    "answer": 42
+  },
+  {
+    "question": "90 \u00f7 9 = ?",
+    "answer": 10
+  },
+  {
+    "question": "39 - 27 = ?",
+    "answer": 12
+  },
+  {
+    "question": "6 \u00f7 6 = ?",
+    "answer": 1
+  },
+  {
+    "question": "6 \u00d7 1 = ?",
+    "answer": 6
+  },
+  {
+    "question": "28 \u00f7 7 = ?",
+    "answer": 4
+  },
+  {
+    "question": "11 \u00d7 3 = ?",
+    "answer": 33
+  },
+  {
+    "question": "24 - 1 = ?",
+    "answer": 23
+  },
+  {
+    "question": "44 + 42 = ?",
+    "answer": 86
+  },
+  {
+    "question": "60 \u00f7 6 = ?",
+    "answer": 10
+  },
+  {
+    "question": "24 \u00f7 2 = ?",
+    "answer": 12
+  },
+  {
+    "question": "47 + 48 = ?",
+    "answer": 95
+  },
+  {
+    "question": "77 \u00f7 7 = ?",
+    "answer": 11
+  },
+  {
+    "question": "7 + 10 = ?",
+    "answer": 17
+  },
+  {
+    "question": "48 + 12 = ?",
+    "answer": 60
+  },
+  {
+    "question": "28 \u00f7 7 = ?",
+    "answer": 4
+  },
+  {
+    "question": "81 \u00f7 9 = ?",
+    "answer": 9
+  },
+  {
+    "question": "18 - 10 = ?",
+    "answer": 8
+  },
+  {
+    "question": "6 + 39 = ?",
+    "answer": 45
+  },
+  {
+    "question": "50 - 6 = ?",
+    "answer": 44
+  },
+  {
+    "question": "20 - 16 = ?",
+    "answer": 4
+  },
+  {
+    "question": "3 + 14 = ?",
+    "answer": 17
+  },
+  {
+    "question": "31 - 19 = ?",
+    "answer": 12
+  },
+  {
+    "question": "6 \u00d7 8 = ?",
+    "answer": 48
+  },
+  {
+    "question": "48 + 14 = ?",
+    "answer": 62
+  },
+  {
+    "question": "36 - 25 = ?",
+    "answer": 11
+  },
+  {
+    "question": "44 - 37 = ?",
+    "answer": 7
+  },
+  {
+    "question": "13 + 8 = ?",
+    "answer": 21
+  },
+  {
+    "question": "14 - 12 = ?",
+    "answer": 2
+  },
+  {
+    "question": "48 + 20 = ?",
+    "answer": 68
+  },
+  {
+    "question": "5 \u00d7 5 = ?",
+    "answer": 25
+  },
+  {
+    "question": "8 + 8 = ?",
+    "answer": 16
+  },
+  {
+    "question": "25 + 17 = ?",
+    "answer": 42
+  },
+  {
+    "question": "110 \u00f7 11 = ?",
+    "answer": 10
+  },
+  {
+    "question": "8 - 4 = ?",
+    "answer": 4
+  },
+  {
+    "question": "9 \u00d7 10 = ?",
+    "answer": 90
+  },
+  {
+    "question": "11 \u00d7 3 = ?",
+    "answer": 33
+  },
+  {
+    "question": "49 \u00f7 7 = ?",
+    "answer": 7
+  },
+  {
+    "question": "27 + 20 = ?",
+    "answer": 47
+  },
+  {
+    "question": "8 \u00f7 4 = ?",
+    "answer": 2
+  },
+  {
+    "question": "45 \u00f7 9 = ?",
+    "answer": 5
+  },
+  {
+    "question": "16 \u00f7 4 = ?",
+    "answer": 4
+  },
+  {
+    "question": "29 - 26 = ?",
+    "answer": 3
+  },
+  {
+    "question": "8 \u00d7 1 = ?",
+    "answer": 8
+  },
+  {
+    "question": "3 \u00d7 5 = ?",
+    "answer": 15
+  },
+  {
+    "question": "44 \u00f7 4 = ?",
+    "answer": 11
+  },
+  {
+    "question": "5 \u00f7 1 = ?",
+    "answer": 5
+  },
+  {
+    "question": "6 \u00d7 10 = ?",
+    "answer": 60
+  },
+  {
+    "question": "6 + 24 = ?",
+    "answer": 30
+  },
+  {
+    "question": "3 \u00d7 12 = ?",
+    "answer": 36
+  },
+  {
+    "question": "46 - 17 = ?",
+    "answer": 29
+  },
+  {
+    "question": "24 - 3 = ?",
+    "answer": 21
+  },
+  {
+    "question": "20 - 8 = ?",
+    "answer": 12
+  },
+  {
+    "question": "49 - 27 = ?",
+    "answer": 22
+  },
+  {
+    "question": "28 \u00f7 7 = ?",
+    "answer": 4
+  },
+  {
+    "question": "45 \u00f7 5 = ?",
+    "answer": 9
+  },
+  {
+    "question": "31 - 22 = ?",
+    "answer": 9
+  },
+  {
+    "question": "16 + 35 = ?",
+    "answer": 51
+  },
+  {
+    "question": "6 \u00d7 3 = ?",
+    "answer": 18
+  },
+  {
+    "question": "10 \u00f7 5 = ?",
+    "answer": 2
+  },
+  {
+    "question": "72 \u00f7 6 = ?",
+    "answer": 12
+  },
+  {
+    "question": "33 + 9 = ?",
+    "answer": 42
+  },
+  {
+    "question": "33 \u00f7 11 = ?",
+    "answer": 3
+  },
+  {
+    "question": "46 + 8 = ?",
+    "answer": 54
+  },
+  {
+    "question": "38 - 29 = ?",
+    "answer": 9
+  },
+  {
+    "question": "38 + 39 = ?",
+    "answer": 77
+  },
+  {
+    "question": "40 \u00f7 4 = ?",
+    "answer": 10
+  },
+  {
+    "question": "50 - 13 = ?",
+    "answer": 37
+  },
+  {
+    "question": "25 - 19 = ?",
+    "answer": 6
+  },
+  {
+    "question": "3 \u00d7 6 = ?",
+    "answer": 18
+  },
+  {
+    "question": "90 \u00f7 10 = ?",
+    "answer": 9
+  },
+  {
+    "question": "43 + 6 = ?",
+    "answer": 49
+  },
+  {
+    "question": "44 - 35 = ?",
+    "answer": 9
+  },
+  {
+    "question": "32 - 17 = ?",
+    "answer": 15
+  },
+  {
+    "question": "21 + 10 = ?",
+    "answer": 31
+  },
+  {
+    "question": "4 \u00f7 2 = ?",
+    "answer": 2
+  },
+  {
+    "question": "49 - 46 = ?",
+    "answer": 3
+  },
+  {
+    "question": "144 \u00f7 12 = ?",
+    "answer": 12
+  },
+  {
+    "question": "11 + 21 = ?",
+    "answer": 32
+  },
+  {
+    "question": "2 \u00d7 12 = ?",
+    "answer": 24
+  },
+  {
+    "question": "5 \u00d7 2 = ?",
+    "answer": 10
+  },
+  {
+    "question": "31 - 3 = ?",
+    "answer": 28
+  },
+  {
+    "question": "27 - 22 = ?",
+    "answer": 5
+  },
+  {
+    "question": "8 \u00d7 9 = ?",
+    "answer": 72
+  },
+  {
+    "question": "37 - 8 = ?",
+    "answer": 29
+  },
+  {
+    "question": "12 \u00f7 4 = ?",
+    "answer": 3
+  },
+  {
+    "question": "3 \u00d7 9 = ?",
+    "answer": 27
+  },
+  {
+    "question": "1 \u00d7 8 = ?",
+    "answer": 8
+  },
+  {
+    "question": "36 \u00f7 12 = ?",
+    "answer": 3
+  }
+]
