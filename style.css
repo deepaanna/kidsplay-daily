@@ -196,6 +196,7 @@ header::before {
     border: 3px dashed #fdcb6e;
     position: relative;
     overflow: hidden;
+    display: none;
 }
 
 .ad-banner::before {
@@ -205,6 +206,7 @@ header::before {
     left: 10px;
     font-size: 1.5rem;
     animation: bounce 2s infinite;
+    display: none;
 }
 
 @keyframes bounce {
@@ -585,7 +587,8 @@ header::before {
     animation: float 6s ease-in-out infinite;
 }
 .premium .ad-banner {
-  display: none !important;
+  /* display: none !important; */
+  display: none;
 }
 
 @keyframes float {
