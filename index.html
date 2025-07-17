@@ -14,7 +14,7 @@
                 <div class="logo">🎮 KidsPlay Daily</div>
                 <div class="user-controls">
                     <div class="streak-counter">🔥 Streak: <span id="streak">0</span></div>
-                    <button class="premium-btn" onclick="showPremium()">⭐ Go Premium</button>
+                    <button class="premium-btn" onclick="showPremium()" visible="false">⭐ Go Premium</button>
                 </div>
             </div>
         </header>
@@ -34,12 +34,12 @@
             </div>
         </div>
 
-        <div class="ad-banner">
+        <div class="ad-banner" visible="false">
             <h3>🌟 Fun Educational Toys for Kids! 🌟</h3>
             <p>Discover amazing toys that make learning fun - Click here for special offers!</p>
             <small style="color: #666; margin-top: 10px; display: block;">Ad • Remove ads with Premium</small>
         </div>
-        <div class="ad-banner">
+        <div class="ad-banner" visible="false">
             <h3>🎨 Ad: Art Supplies for Kids</h3>
             <p>Unleash creativity with fun craft kits. Click here!</p>
         </div>
@@ -105,7 +105,7 @@
                 <button class="play-btn" id="quizBtn">Play Now!</button>
             </div>
 
-            <div class="game-card premium-locked" onclick="showPremiumRequired()">
+            <div class="game-card premium-locked" onclick="showPremiumRequired()" visible="false">
                 <div class="game-title">🏆 Speed Challenge</div>
                 <div class="game-description">Race against time in this exciting speed game! Premium members only.</div>
                 <div class="game-status">
@@ -115,7 +115,7 @@
                 <button class="play-btn premium-btn-disabled">🔒 Premium Only</button>
             </div>
 
-            <div class="game-card premium-locked" onclick="showPremiumRequired()">
+            <div class="game-card premium-locked" onclick="showPremiumRequired()" visible="false">
                 <div class="game-title">🎯 Daily Challenge</div>
                 <div class="game-description">Complete special challenges for extra rewards! Premium exclusive content.</div>
                 <div class="game-status">
@@ -165,7 +165,7 @@
             </div>
         </div>
 
-        <div class="ad-banner">
+        <div class="ad-banner" visible="false">
             <h3>🎨 Creative Art Supplies for Young Artists! 🎨</h3>
             <p>Unleash creativity with our premium art kits designed for children</p>
             <small style="color: #666; margin-top: 10px; display: block;">Ad • Remove ads with Premium</small>

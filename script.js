@@ -178,10 +178,10 @@ function checkMathAnswer(correctAnswer) {
     
     if (userAnswer === correctAnswer) {
         resultDiv.innerHTML = '<div class="result-message success">🎉 Correct! Great job!</div>';
+        markTodayCompleted('mathGame');
         setTimeout(() => {
-            localStorage.setItem(`mathGame_${today}`, 'completed');
-            completeGame('mathGame', 15);
-            closeGame();
+        completeGame('mathGame', 15);
+        closeGame();
         }, 2000);
     } else {
         resultDiv.innerHTML = '<div class="result-message error">❌ Try again! You can do it!</div>';
@@ -219,9 +219,10 @@ function checkPuzzleAnswer(correctAnswer) {
     
     if (userAnswer === correctAnswer) {
         resultDiv.innerHTML = '<div class="result-message success">🎉 Perfect! You found the pattern!</div>';
+        markTodayCompleted('mathGame');
         setTimeout(() => {
-            completeGame('puzzleGame', 20);
-            closeGame();
+        completeGame('puzzleGame', 20);
+        closeGame();
         }, 2000);
     } else {
         resultDiv.innerHTML = '<div class="result-message error">❌ Not quite right. Look at the pattern again!</div>';
@@ -283,6 +284,7 @@ function checkMatch() {
         if (matchedPairs === 6) {
             document.getElementById('memoryResult').innerHTML = 
                 '<div class="result-message success">🎉 You found all pairs! Amazing memory!</div>';
+            markTodayCompleted('memoryGame');
             setTimeout(() => {
                 completeGame('memoryGame', 25);
                 closeGame();
@@ -488,6 +490,7 @@ function selectQuizAnswer(selectedIndex, correctIndex) {
     
     if (selectedIndex === correctIndex) {
         resultDiv.innerHTML = '<div class="result-message success">🎉 Correct! You\'re so smart!</div>';
+        markTodayCompleted('quizGame');
         setTimeout(() => {
             completeGame('quizGame', 15);
             closeGame();
