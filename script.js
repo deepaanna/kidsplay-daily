@@ -308,23 +308,35 @@ function openGame(gameType) {
     switch(gameType) {
         case 'wordGame':
             currentAttempt = 0;
-            content.innerHTML = createWordGame();
+            createWordGame().then(html => {
+                content.innerHTML = html;
+            });
             break;
         case 'mathGame':
-            content.innerHTML = createMathGame();
+            createMathGame().then(html => {
+                content.innerHTML = html;
+            });
             break;
         case 'puzzleGame':
-            content.innerHTML = createPuzzleGame();
+            createPuzzleGame().then(html => {
+                content.innerHTML = html;
+            });
             break;
         case 'memoryGame':
-            content.innerHTML = createMemoryGame();
+            createMemoryGame().then(html => {
+                content.innerHTML = html;
+            });
             break;
         case 'drawingGame':
-            content.innerHTML = createDrawingGame();
+            createDrawingGame().then(html => {
+                content.innerHTML = html;
+            });
             setTimeout(setupCanvas, 100);
             break;
         case 'quizGame':
-            content.innerHTML = createQuizGame();
+            createQuizGame().then(html => {
+                content.innerHTML = html;
+            });
             break;
     }
     
